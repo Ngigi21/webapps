@@ -1,0 +1,32 @@
+p{
+    font-size: 40px;
+    font-weight: 600;
+    font-style: italic;
+    background-color: brown;
+}
+body{
+  padding:25px 50px 75px 100px;
+  background-color: aliceblue;
+
+}
+.img-container
+{
+ margin: auto;
+ width:30%;
+
+}
+
+.form-entry form input
+{
+    margin:auto;
+    width: 70%;
+    
+}
+
+.section-one{
+    font-size: 40%;
+    color: aqua;
+}
+
+
+
